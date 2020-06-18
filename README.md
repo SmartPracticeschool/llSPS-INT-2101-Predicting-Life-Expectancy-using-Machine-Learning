@@ -1,9 +1,12 @@
 # llSPS-INT-2101-Predicting-Life-Expectancy-using-Machine-Learning
-Predicting Life Expectancy using Machine Learning
+Predicting Life Expectancy using Machine Learning 
+By: Diksha Singh,
+Bharati Vidyapeeth (DU) College of Engineering, Pune
 
 
 Visit the Link: https://predict-life-expectancy-app.eu-gb.mybluemix.net/ui/
 (UI to Predict the Life Expectancy)
+
 
 Video Demonstration Link: https://drive.google.com/drive/folders/1w3gUSsTLwnp0jh05kDttb5FtETyDzmPL?usp=sharing
 
